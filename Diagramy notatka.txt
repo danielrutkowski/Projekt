@@ -1,0 +1,9 @@
+Projekt dotyczy magazynu oraz obsługi zamówień dla klientów. Ma na celu ułatwić kontrolę sprzedawanego towaru.
+Diagram przypadków użycia pokazuje zależności pomiędzy aktorami.
+Diagram stanu opisuje procedurę obsługi zamówienia.
+Diagram czynności opisuje możliwości wyboru przy kompletacji zamówienia.
+Diagram klas opisuje dane osób biorących udział podczas tworzenia zamówienia oraz opisuje dany towar.
+Diagram obiektów przedstawia zależności pomiędzy osobami zajmującymi się zamówieniami.
+Diagram przebiegu pokazuje kolejne etapy kompletacji zamówienia.
+Diagram komponentów zależność między danymi komponentami.
+Diagram wdrożenia opisuje powiązanie pomiędzy osobami, a tym czym się zajmują.
